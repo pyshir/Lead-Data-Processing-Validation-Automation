@@ -1,0 +1,206 @@
+--------------------------------------------------
+LEAD #001
+Customer: Md. Rahim Uddin
+Email: rahim.uddin@gmail.com
+Phone: 01712345678
+Order Date: 12/08/2026
+Budget: Tk 12,500
+Website: https://rahimshop.com
+Product ID: A-102
+Address: House 12, Road 4, Dhanmondi, Dhaka
+--------------------------------------------------
+
+LEAD #002
+Name: Sarah Ahmed
+Email => sarah.ahmed @ yahoo.com
+Mobile: 01812345678
+Date: Aug 15, 2026
+Budget: $250
+Product: B-205
+Address: 22/B Gulshan Avenue, Dhaka
+Website: www.sarahstore.com
+--------------------------------------------------
+
+LEAD #003
+CUSTOMER NAME: Karim Hasan
+contact: karim.hasan@gmail.com
+phone: 01711 223344
+purchase date: 2026-08-16
+price: BDT 8,900
+product id: C-301
+location: Mirpur, Dhaka
+--------------------------------------------------
+
+LEAD #004
+Customer: Nusrat Jahan
+Email: nusrat.jahan@gmail.com
+Phone: +880-1812-998877
+Date: 16-08-2026
+Budget: 15000 BDT
+Product ID: A-102
+Address: Uttara Sector 7, Dhaka
+--------------------------------------------------
+
+LEAD #005
+Name: Rahim Uddin
+Email: rahim.uddin@gmail.com
+Phone: 01712345678
+Date: 2026/08/12
+Budget: Tk12500
+Product ID: A-102
+Address: House 12 Road 4 Dhanmondi Dhaka
+--------------------------------------------------
+
+LEAD #006
+Customer: John Smith
+Email: john.smith@gmail.com
+Phone: +1 (415) 555-0198
+Date: 08/18/2026
+Budget: USD 1,250.50
+Website: https://johnsmith.example.com
+Product ID: D-410
+Address: 55 Market Street, San Francisco, CA
+--------------------------------------------------
+
+LEAD #007
+Customer: Ayesha Rahman
+Email: ayesha.rahman@gmail
+Phone: 01912-334455
+Date: 18/08/2026
+Budget: 9500 taka
+Product ID: B-205
+Address: Banani, Dhaka
+--------------------------------------------------
+
+LEAD #008
+Customer:   Fahim   Chowdhury
+Email: fahim.chowdhury@outlook.com
+Phone:  +880 1911 223344
+Date: 19 Aug 2026
+Budget: BDT 7,500
+Product ID: C-301
+Address: Road 11, Mohammadpur, Dhaka
+--------------------------------------------------
+
+LEAD #009
+Name: Fahim Chowdhury
+Email: fahim.chowdhury@outlook.com
+Phone: +8801911223344
+Date: 2026-08-19
+Budget: 7500 BDT
+Product ID: C-301
+Address: Road 11 Mohammadpur Dhaka
+--------------------------------------------------
+
+LEAD #010
+Customer: Michael O'Connor
+Email: michael.oconnor@example.com
+Phone: +44 20 7946 0958
+Date: 20/08/2026
+Budget: GBP 500
+Website: https://example.co.uk
+Product ID: E-501
+Address: 10 King's Road, London
+--------------------------------------------------
+
+LEAD #011
+Customer: Lina Das
+Email: lina.das@@gmail.com
+Phone: 01612-998877
+Date: 21/08/2026
+Budget: Tk 6,000
+Product ID: A-102
+Address: Chittagong
+--------------------------------------------------
+
+LEAD #012
+Customer: Tanvir Hossain
+Email: tanvir.hossain@gmail.com
+Phone: 017-12345678
+Date: 32/08/2026
+Budget: Tk 9,500
+Product ID: F-601
+Address: Rajshahi
+--------------------------------------------------
+
+LEAD #013
+Customer: Emily Johnson
+Email: emily.johnson@gmail.com
+Phone: +1-212-555-0187
+Date: September 1, 2026
+Budget: USD 800
+Product ID: D-410
+Address: 20 Broadway, New York
+--------------------------------------------------
+
+LEAD #014
+Customer:   Md Rahim Uddin
+Email: RAHIM.UDDIN@GMAIL.COM
+Phone: 01712-345678
+Date: 12 Aug 2026
+Budget: BDT 12,500
+Product ID: A-102
+Address: House 12, Road 4, Dhanmondi, Dhaka
+--------------------------------------------------
+
+LEAD #015
+Customer: Omar Faruk
+Email: omar.faruk@gmail.com
+Phone: 01812 445566
+Date: 02/09/2026
+Budget: around Tk 14,000
+Product ID: G-701
+Address: Khulna
+Notes: Please call after 6 PM.
+--------------------------------------------------
+
+LEAD #016
+Customer: Maria Garcia
+Email: maria.garcia@example.com
+Phone: +34 612 345 678
+Date: 2026-09-03
+Budget: EUR 1.200,50
+Product ID: H-801
+Address: Madrid, Spain
+--------------------------------------------------
+
+LEAD #017
+Customer: David Lee
+Email: david.lee@example.com
+Phone: 12345
+Date: 03/09/2026
+Budget: USD 300
+Product ID: D-410
+Address: Seoul
+--------------------------------------------------
+
+LEAD #018
+Customer: Sara Ahmed
+Email: sara.ahmed@yahoo.com
+Phone: 01812345678
+Date: 04/09/2026
+Budget: $250
+Product ID: B-205
+Address: 22/B Gulshan Avenue, Dhaka
+--------------------------------------------------
+
+LEAD #019
+Customer: Hasan Ali
+Email: hasan.ali@gmail.com
+Phone:
+Date: 05/09/2026
+Budget: Tk 4,500
+Product ID: C-301
+Address: Sylhet
+--------------------------------------------------
+
+LEAD #020
+Customer: Unknown
+Email: -
+Phone: N/A
+Date: -
+Budget: -
+Product ID: X-999
+Address: Not provided
+Notes: Customer sent only a product inquiry.
+--------------------------------------------------
